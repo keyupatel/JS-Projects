@@ -56,7 +56,10 @@ console.log(persolnname.indexOf("Pa")); // o/p 5
 console.log(persolnname.lastIndexOf("e")); // last ma kai position par e male chhe te start count  o/p 8
 console.log(persolnname.includes("Patel")); // check it Patel is available or not in the string o/p true
 
+// trim method trim()
 console.log(persolnname.replace("Keyur", "Keyurkumar " )); // Replace kare search sting exisitng to new string
 let msg = " Hello Word ";
 console.log(msg);
 console.log(msg.trim()); // Remove extra space from start to end but not remove middle space between two string words
+
+//
